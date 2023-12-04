@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/era98nda" target="blank"><img src="https://img.shields.io/twitter/follow/era98nda?logo=twitter&style=for-the-badge" alt="era98nda" /></a> </p>
 
-- 📫 How to reach me **chamodchandimal2023@gmail.com**
+- 📫 How to reach me **chandimal.eranda@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
