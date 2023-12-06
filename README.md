@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chamod Chandimal</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodchandimal&label=Profile%20views&color=0e75b6&style=flat" alt="chamodchandimal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodchandimal" alt="chamodchandimal" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/era98nda" target="blank"><img src="https://img.shields.io/twitter/follow/era98nda?logo=twitter&style=for-the-badge" alt="era98nda" /></a> </p>
 
