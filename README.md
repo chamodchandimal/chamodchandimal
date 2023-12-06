@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chamod Chandimal</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=era-sl&label=Profile%20views&color=0e75b6&style=flat" alt="era-sl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodchandimal&label=Profile%20views&color=0e75b6&style=flat" alt="chamodchandimal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=era-sl" alt="era-sl" /></a> </p>
 
